@@ -1,7 +1,7 @@
 <!-- README.md for GitHub Profile -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hello+World!;Welcome+to+My+Terminal+🖥️;Coding+is+My+Second+Nature+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=hello+world();+welcome+to+my+terminal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;building+projects+with+AI+%7C+Data+%7C+Python" alt="hacker style hello world banner" />
 </p>
 
 
