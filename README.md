@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+hello+world;+%3E+welcome+to+my+terminal" alt="hacker style hello world banner" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Aadi</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
