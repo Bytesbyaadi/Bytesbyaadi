@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+hello+world;+%3E+welcome+to+my+terminal" alt="hacker style hello world banner" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/2yAfN6B.png" alt="Hacker Hello World Banner" width="800"/>
-</p>
-
 ---
 
 ## 🧠 About Me
