@@ -18,15 +18,15 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Python_logo.svg" alt="Python" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_of_Java_programming_language.svg" alt="Java" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/CSS3_logo.svg" alt="CSS" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/JavaScript-logo.svg" alt="JavaScript" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flask_logo.svg" alt="Flask" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg" alt="MySQL" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/python.svg" alt="Python" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/java.svg" alt="Java" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cplusplus.svg" alt="C++" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/html5.svg" alt="HTML" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/css3.svg" alt="CSS" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/javascript.svg" alt="JavaScript" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/react.svg" alt="React" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/flask.svg" alt="Flask" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mysql.svg" alt="MySQL" width="50"/>
 </p>
 
 ---
