@@ -35,11 +35,11 @@
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:writetoaditya34@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/aditya-sharma-121036289"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://linkedin.com/in/aditya-sharma-121036289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sharma-121036289" height="30" width="40" /></a>
+<a href="https://instagram.com/maiaadiiihoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maiaadiiihoon" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fuo0lhalrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fuo0lhalrt" height="30" width="40" /></a>
+<a href="https://discord.gg/whoadiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whoadiii" height="30" width="40" /></a>
 </p>
-
 ---
 
 <p align="center">
