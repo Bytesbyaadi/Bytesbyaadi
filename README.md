@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd Year Engineering Student  
+- 🎓 3rd Year Engineering Student  
 - 🛠️ Building ML-powered systems & real-world automation  
 - 🤖 Passionate about AI, Data Science, and Ethical Tech  
 - ⚡ Trying to make tech **fun, useful, and impactful**
